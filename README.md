@@ -1,8 +1,5 @@
-# WP GraphQL Notifications
+# WPGraphQL Notifications Example
 
 The intent of this plugin is to showcase how to extend the WPGraphQL Schema using data from custom SQL tables.
 
-## TODO: 
-
-- [ ] Comment the code
-- [ ] Write tutorial
+A full tutorial about this code can be read here: https://www.wpgraphql.com/docs/using-data-from-custom-database-tables
